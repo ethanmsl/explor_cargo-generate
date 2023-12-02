@@ -1,5 +1,7 @@
 # Testing repo for exploring [cargo-generate](https://github.com/cargo-generate/cargo-generate) templating
 
+Here be {{bops}}:
+
 ### Run by:
 
 ```shell
