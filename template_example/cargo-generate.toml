@@ -1,0 +1,15 @@
+[placeholders.ramalama]
+type = "string"
+prompt = "Value for 'Ramalama'?"
+default = "ding-dong"
+
+[placeholders.hypervisor]
+type = "string"
+prompt = "What hypervisor to use?"
+choices = ["uhyve", "qemu"]
+default = "qemu"
+
+[placeholders.network_enabled]
+type = "bool"
+prompt = "Want to enable network?"
+default = true
